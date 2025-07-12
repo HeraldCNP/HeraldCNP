@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/HeraldCNP?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HeraldCNP?style=social">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=¡Hola!+Soy+Herald+Choque+Vargas;Ingeniero+de+Sistemas;Bienvenido+a+mi+perfil!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=¡Hi!+Soy+Herald+Choque+Vargas;Ingeniero+de+Sistemas;Bienvenido+a+mi+perfil!" alt="Title"></img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre Mí

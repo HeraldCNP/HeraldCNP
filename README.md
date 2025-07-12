@@ -20,8 +20,8 @@
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Algunas Estadísticas
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**TU_NOMBRE_DE_USUARIO**&layout=compact&show_icons=true&theme=algolia" alt="lenguajes-heraldcnp"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=**TU_NOMBRE_DE_USUARIO**&layout=compact&show_icons=true&theme=algolia" alt="estadisticas-heraldcnp"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heraldcnp&layout=compact&show_icons=true&theme=algolia" alt="lenguajes-heraldcnp"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=heraldcnp&layout=compact&show_icons=true&theme=algolia" alt="estadisticas-heraldcnp"/>
 </div>
 
 <div align="center">

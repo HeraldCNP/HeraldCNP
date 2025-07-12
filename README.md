@@ -29,6 +29,14 @@ Algunas Tecnologías y Herramientas
   <img src="http://github-readme-streak-stats.herokuapp.com?user=heraldcnp&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
+## Just a snake eating my contributions 🐍
+<div align="center">
+  <img src="https://github.com/heraldcnp/contribution-cal-snake/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<hr>
+<br>
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Para más información, puedes contactarme o visitar:
 
 <p align="center">

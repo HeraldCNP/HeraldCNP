@@ -6,7 +6,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre Mí
 
-- :man_technologist: Mi nombre completo es **Herald Choque Vargas**  <img src="[https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)" width="400" align="right"/>
+- :man_technologist: Mi nombre completo es **Herald Choque Vargas**  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="400" align="right"/>
 - :briefcase: Soy un profesional **Ingeniero de Sistemas**
 - :computer: Especializado en **desarrollo web** y con interés en **ciberseguridad**
 - :earth_americas: Actualmente vivo en **Potosí, Bolivia**
